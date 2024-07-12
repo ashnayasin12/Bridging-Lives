@@ -1,0 +1,18 @@
+
+/* Transparent
+=================================*/
+nav.navbar.bootsnav.navbar-fixed{
+    position: fixed;
+    display: block;
+    width: 100%;
+}
+
+.navbar-brand img {
+    height: 40px; /* Adjust the height as needed */
+    margin-right: 20px; /* Add some space between the logo and the title */
+    margin-top: -5px; /* Move the logo up by adjusting the margin top */
+    margin-left: -5px; /* Move the logo to the left by adjusting the margin left */
+}
+
+    
+
